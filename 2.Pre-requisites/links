@@ -1,1 +1,33 @@
+## Tools and Technologies Used
+
+The Credit Card Approval Prediction project was developed using Python and several powerful libraries and tools for data analysis, machine learning, visualization, and deployment.
+
+| Tool/Library       | Purpose                                                            | Official Link                      |
+| ------------------ | ------------------------------------------------------------------ | ---------------------------------- |
+| Anaconda Navigator | Package management and environment setup for data science projects | https://www.anaconda.com/download  |
+| PyCharm            | Python IDE for development, debugging, and project management      | https://www.jetbrains.com/pycharm/ |
+| NumPy              | Numerical computing and array operations                           | https://numpy.org/doc/stable/      |
+| Pandas             | Data manipulation and analysis                                     | https://pandas.pydata.org/docs/    |
+| Scikit-learn       | Machine learning algorithms and model evaluation                   | https://scikit-learn.org/stable/   |
+| Matplotlib         | Data visualization and plotting                                    | https://matplotlib.org/stable/     |
+| Seaborn            | Statistical data visualization                                     | https://seaborn.pydata.org/        |
+| Flask              | Web framework for deploying machine learning applications          | https://flask.palletsprojects.com/ |
+
+### Installation
+
+Install the required dependencies using:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn flask
+```
+
+### Development Environment
+
+Recommended software for running this project:
+
+* Anaconda Navigator
+* PyCharm IDE or Jupyter Notebook
+* Python 3.x
+
+These tools and libraries provide the necessary environment for data preprocessing, model training, visualization, and deployment of the Credit Card Approval Prediction system.
 
