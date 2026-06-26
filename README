@@ -1,17 +1,17 @@
 Credit Card Approval Prediction System
-📌 Project Overview
+ Project Overview
 
 The Credit Card Approval Prediction System is a Machine Learning and Data Management project designed to analyze applicant information and predict whether a credit card application should be approved or rejected.
 
 The project uses applicant demographic details, employment information, financial history, and previous credit records to identify patterns that influence credit card approval decisions. The Entity Relationship Diagram (ERD) provides the database structure required to store and manage all relevant information efficiently.
 
-🎯 Project Objectives
+ Project Objectives
 Predict credit card approval outcomes using machine learning algorithms.
 Analyze applicant financial and demographic profiles.
 Identify factors that influence approval or rejection decisions.
 Maintain historical records for future risk assessment.
 Support credit risk management and decision-making processes.
-🏗️ Database Design
+ Database Design
 
 The database is designed using seven main entities:
 
@@ -120,7 +120,7 @@ Approval Reason Codes
 | Applicant → Credit History       | One-to-Many |
 | Credit History → Credit Decision | Many-to-One |
 | Reference Data → Other Entities  | One-to-Many |
-🤖 Machine Learning Workflow
+ Machine Learning Workflow
 Data Collection
 Data Cleaning and Preprocessing
 Feature Engineering
@@ -129,7 +129,7 @@ Model Training
 Model Evaluation
 Credit Approval Prediction
 Deployment
-🛠️ Technologies Used
+ Technologies Used
 Python
 Pandas
 NumPy
@@ -138,7 +138,7 @@ Seaborn
 Scikit-learn
 Jupyter Notebook / Google Colab
 Git and GitHub
-📊 Features Used for Prediction
+ Features Used for Prediction
 Gender
 Income Type
 Annual Income
@@ -150,7 +150,7 @@ Credit History
 Outstanding Amount
 Default Records
 Requested Credit Limit
-📈 Expected Output
+ Expected Output
 
 The system predicts whether a credit card application should be:
 
@@ -179,7 +179,7 @@ Credit-Card-Approval-Prediction/
 ├── README.md
 │
 └── requirements.txt
-🚀 Future Enhancements
+ Future Enhancements
 Integration with real-time banking systems.
 Deep learning-based risk prediction.
 Fraud detection module.
